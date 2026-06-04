@@ -1,0 +1,6 @@
+{
+  "name": "Jeet Furniture",
+  "description": "Premium, modern, and luxury website for Jeet Furniture showcasing bespoke furniture solutions, interior designs, projects, and custom interactive catalog.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
